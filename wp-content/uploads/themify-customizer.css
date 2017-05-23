@@ -1,0 +1,159 @@
+/* Themify Customize Styling */
+body {		font-size:16px;
+ 
+}
+h1 {	
+	font-family:Open Sans;	font-weight:300;
+	font-size:58px;
+ 
+}
+h2 {	
+	font-family:Open Sans;	font-weight:300;
+	font-style:normal;
+
+	color: #4d4d4d; 
+}
+h3 {	
+	font-family:Open Sans;	font-weight:300;
+	font-size:32px;
+
+	color: #4d4d4d; 
+}
+h4 {	
+	font-family:Open Sans;	font-weight:300;
+
+	color: #4d4d4d; 
+}
+h5 {	
+	font-family:Open Sans;	font-weight:300;
+
+	color: #4d4d4d; 
+}
+h6 {	
+	font-family:Open Sans;	font-weight:300;
+
+	color: #4d4d4d; 
+}
+#headerwrap {	
+	background-color: #3b3b3b; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo {	
+	font-family:Open Sans;	font-weight:bold;
+	font-size:24px;
+
+	color: #ffffff; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+#main-nav {		position:relative;
+
+	top: 3px; 
+}
+#main-nav a {	
+	font-family:Open Sans;	font-weight:normal;
+	font-size:16px;
+ 
+}
+#main-nav a, #main-nav > li > a {	
+	color: #ffffff; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #dedede; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #dedede; 
+}
+#footerwrap {	
+	background-color: #292929; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+#footer a:hover {	
+	color: #dedede; 
+}
+#footer-nav a {	
+	color: #ffffff; 
+}
+#footer-nav a:hover, #footer-nav li:hover > a {	
+	color: #dedede; 
+}
+#footer-nav .current_page_item a, #footer-nav .current-menu-item a {	
+	color: #ffffff; 
+}
+#footer-nav .current_page_item a:hover, #footer-nav .current-menu-item a:hover {	
+	color: #dedede; 
+}
+.footer-widgets .widgettitle {	
+	color: #ffffff; 
+}
+@media screen and (max-width: 976px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+ }@media screen and (max-width: 480px) { /* Themify Customize Styling */
+h1 {		font-size:32px;
+ 
+}
+h2 {	
+	font-family:Open Sans;	font-weight:300;
+
+	color: #4d4d4d; 
+}
+#headerwrap {	
+	background-color: #3b3b3b; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
+	color: #ffffff; 
+}
+#main-nav a, #main-nav > li > a {	
+	color: #ffffff; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #dedede; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #ffffff; 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #dedede; 
+}
+#footerwrap {	
+	background-color: #292929; 
+}
+#footer {	
+	color: #ffffff; 
+}
+#footer a {	
+	color: #ffffff; 
+}
+#footer a:hover {	
+	color: #dedede; 
+}
+#footer-nav a {	
+	color: #ffffff; 
+}
+#footer-nav a:hover, #footer-nav li:hover > a {	
+	color: #dedede; 
+}
+#footer-nav .current_page_item a, #footer-nav .current-menu-item a {	
+	color: #ffffff; 
+}
+#footer-nav .current_page_item a:hover, #footer-nav .current-menu-item a:hover {	
+	color: #dedede; 
+}
+.footer-widgets .widgettitle {	
+	color: #ffffff; 
+}
+ }
