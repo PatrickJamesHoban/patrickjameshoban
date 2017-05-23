@@ -118,36 +118,129 @@ background: linear-gradient(180deg,rgba(5, 5, 5, 0.27) 0%, rgba(255, 255, 255, 0
 /* .themify_builder_1294_row.module_row_4 Style */
 .themify_builder_1294_row.module_row_4.module_row {
 	background-color: #f6f6f6;
-	padding-top : 5%;
-	padding-bottom : 5%
+	padding-top : 1%;
+	padding-bottom : 2%;
+	margin-top : 0px;
+	margin-bottom : 0px
 }
 
-.themify_builder .text-1294-4-0-1.module-text { text-align: left;  } 
+.themify_builder .text-1294-4-0-1.module-text { text-align: left; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .text-1294-4-0-2.module-text { text-align: center; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+/* .sub_column_post_1294.sub_column_4-0-3-0 Style */
+.sub_column_post_1294.sub_column_4-0-3-0.sub_column {
+	padding-top : 0px;
+	padding-bottom : 0px
+}
+
+.themify_builder .text-1294-sub_row_4-0-3-0-0.module-text { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+/* .sub_column_post_1294.sub_column_4-0-3-1 Style */
+.sub_column_post_1294.sub_column_4-0-3-1.sub_column {
+	padding-top : 0px;
+	padding-bottom : 0px
+}
+
+.themify_builder .text-1294-sub_row_4-0-3-1-0.module-text { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+/* .sub_column_post_1294.sub_column_4-0-3-2 Style */
+.sub_column_post_1294.sub_column_4-0-3-2.sub_column {
+	padding-top : 0px;
+	padding-bottom : 0px
+}
+
+.themify_builder .text-1294-sub_row_4-0-3-2-0.module-text { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+/* .sub_column_post_1294.sub_column_4-0-3-3 Style */
+.sub_column_post_1294.sub_column_4-0-3-3.sub_column {
+	padding-top : 0px;
+	padding-bottom : 0px
+}
+
+.sub_column.sub_column_post_1294.sub_column_4-0-3-3{width:17.4265%;}.themify_builder .text-1294-sub_row_4-0-3-3-0.module-text { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+/* .sub_column_post_1294.sub_column_4-0-3-4 Style */
+.sub_column_post_1294.sub_column_4-0-3-4.sub_column {
+	padding-top : 0px;
+	padding-bottom : 0px
+}
+
+.sub_column.sub_column_post_1294.sub_column_4-0-3-4{width:17.4445%;}.themify_builder .text-1294-sub_row_4-0-3-4-0.module-text { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .text-1294-4-0-4.module-text { text-align: center; padding-top: 5%; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+/* .sub_column_post_1294.sub_column_4-0-5-0 Style */
+.sub_column_post_1294.sub_column_4-0-5-0.sub_column {
+	padding-top : 0px;
+	padding-bottom : 0px
+}
+
+.themify_builder .text-1294-sub_row_4-0-5-0-0.module-text { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+/* .sub_column_post_1294.sub_column_4-0-5-1 Style */
+.sub_column_post_1294.sub_column_4-0-5-1.sub_column {
+	padding-top : 0px;
+	padding-bottom : 0px
+}
+
+.themify_builder .text-1294-sub_row_4-0-5-1-0.module-text { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+/* .sub_column_post_1294.sub_column_4-0-5-2 Style */
+.sub_column_post_1294.sub_column_4-0-5-2.sub_column {
+	padding-top : 0px;
+	padding-bottom : 0px
+}
+
+.themify_builder .text-1294-sub_row_4-0-5-2-0.module-text { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
 /* .themify_builder_1294_row.module_row_5 Style */
 .themify_builder_1294_row.module_row_5.module_row {
-	padding-top : 6%;
-	padding-bottom : 3%
+	padding-top : 0px;
+	padding-bottom : 0px;
+	margin-top : 0px;
+	margin-bottom : 0px
 }
 
+.themify_builder .text-1294-5-0-1.module-text { padding-top: 3%; padding-bottom: 1%; padding-left: 1%; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .feature-1294-5-0-2.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
 .themify_builder .feature-1294-5-0-2.module-feature .module-feature-title { font-family: Open Sans; color: #4d4d4d; font-size: 32px;  } 
 .themify_builder .feature-1294-5-0-2.module-feature a { color: #4d4d4d; text-decoration: none;  } 
 .themify_builder .feature-1294-5-0-2.module-feature a:hover { color: #3b3b3b;  } 
 .themify_builder .feature-1294-5-0-2.module-feature .module-feature-title a { font-family: Open Sans; color: #4d4d4d;  } 
 .themify_builder .feature-1294-5-0-2.module-feature .module-feature-title:hover { color: #3b3b3b;  } 
 .themify_builder .feature-1294-5-0-2.module-feature .module-feature-title a:hover { color: #3b3b3b;  } 
-.themify_builder .accordion-1294-5-0-3 .ui.module-accordion a { color: #4d4d4d; text-decoration: none;  } 
-.themify_builder .accordion-1294-5-0-3 .ui.module-accordion a:hover { color: #3b3b3b;  } 
-.themify_builder .accordion-1294-5-0-3 .ui.module-accordion .accordion-title { font-family: Open Sans; color: #4d4d4d; font-size: 16px;  } 
-.themify_builder .accordion-1294-5-0-3  .ui.module-accordion .accordion-title a { color: #4d4d4d;  } 
-.themify_builder .accordion-1294-5-0-3 .ui.module-accordion .accordion-title .accordion-icon { color: #4d4d4d;  } 
-.themify_builder .accordion-1294-5-0-3 .ui.module-accordion .accordion-title .accordion-active-icon { color: #4d4d4d;  } 
-.themify_builder .accordion-1294-5-0-3 .ui.module-accordion .accordion-title i { font-size: 24px;  } 
+.themify_builder .feature-1294-5-0-3.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .feature-1294-5-0-3.module-feature .module-feature-title { font-family: Open Sans; color: #4d4d4d; font-size: 32px;  } 
+.themify_builder .feature-1294-5-0-3.module-feature a { color: #4d4d4d; text-decoration: none;  } 
+.themify_builder .feature-1294-5-0-3.module-feature a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-3.module-feature .module-feature-title a { font-family: Open Sans; color: #4d4d4d;  } 
+.themify_builder .feature-1294-5-0-3.module-feature .module-feature-title:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-3.module-feature .module-feature-title a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-4.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
 .themify_builder .feature-1294-5-0-4.module-feature .module-feature-title { font-family: Open Sans; color: #4d4d4d; font-size: 32px;  } 
 .themify_builder .feature-1294-5-0-4.module-feature a { color: #4d4d4d; text-decoration: none;  } 
 .themify_builder .feature-1294-5-0-4.module-feature a:hover { color: #3b3b3b;  } 
 .themify_builder .feature-1294-5-0-4.module-feature .module-feature-title a { font-family: Open Sans; color: #4d4d4d;  } 
 .themify_builder .feature-1294-5-0-4.module-feature .module-feature-title:hover { color: #3b3b3b;  } 
 .themify_builder .feature-1294-5-0-4.module-feature .module-feature-title a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-5.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .feature-1294-5-0-5.module-feature .module-feature-title { font-family: Open Sans; color: #4d4d4d; font-size: 32px;  } 
+.themify_builder .feature-1294-5-0-5.module-feature a { color: #4d4d4d; text-decoration: none;  } 
+.themify_builder .feature-1294-5-0-5.module-feature a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-5.module-feature .module-feature-title a { font-family: Open Sans; color: #4d4d4d;  } 
+.themify_builder .feature-1294-5-0-5.module-feature .module-feature-title:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-5.module-feature .module-feature-title a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-6.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .feature-1294-5-0-6.module-feature .module-feature-title { font-family: Open Sans; color: #4d4d4d; font-size: 32px;  } 
+.themify_builder .feature-1294-5-0-6.module-feature a { color: #4d4d4d; text-decoration: none;  } 
+.themify_builder .feature-1294-5-0-6.module-feature a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-6.module-feature .module-feature-title a { font-family: Open Sans; color: #4d4d4d;  } 
+.themify_builder .feature-1294-5-0-6.module-feature .module-feature-title:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-6.module-feature .module-feature-title a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-7.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .feature-1294-5-0-7.module-feature .module-feature-title { font-family: Open Sans; color: #4d4d4d; font-size: 32px;  } 
+.themify_builder .feature-1294-5-0-7.module-feature a { color: #4d4d4d; text-decoration: none;  } 
+.themify_builder .feature-1294-5-0-7.module-feature a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-7.module-feature .module-feature-title a { font-family: Open Sans; color: #4d4d4d;  } 
+.themify_builder .feature-1294-5-0-7.module-feature .module-feature-title:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-7.module-feature .module-feature-title a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-8.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .feature-1294-5-0-8.module-feature .module-feature-title { font-family: Open Sans; color: #4d4d4d; font-size: 32px;  } 
+.themify_builder .feature-1294-5-0-8.module-feature a { color: #4d4d4d; text-decoration: none;  } 
+.themify_builder .feature-1294-5-0-8.module-feature a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-8.module-feature .module-feature-title a { font-family: Open Sans; color: #4d4d4d;  } 
+.themify_builder .feature-1294-5-0-8.module-feature .module-feature-title:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-8.module-feature .module-feature-title a:hover { color: #3b3b3b;  } 
 /* .themify_builder_1294_row.module_row_6 Style */
 .themify_builder_1294_row.module_row_6.module_row {
 	background-color: #f6f6f6
