@@ -94,6 +94,86 @@ h6 {
 .footer-widgets .widgettitle {	
 	color: #ffffff; 
 }
+
+/* Themify Custom CSS */
+div.sh-hide a, div.sh-show a { 
+  /*pulled from div wrapper for button*/
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  visibility: visible;
+  text-align: center;
+  color: #4d4d4d;
+  word-wrap: break-word;
+  -webkit-font-smoothing: antialiased;
+  text-size-adjust: 100%;
+  background-color: rgba(3,3,3, 0.00);
+  border-top-color: #4d4d4d;
+  border-top-width: 2px;
+  border-top-style: solid;
+  border-right-color: #4d4d4d;
+  border-right-width: 2px;
+  border-right-style: solid;
+  border-bottom-color: #4d4d4d;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-left-color: #4d4d4d;
+  border-left-width: 2px;
+  border-left-style: solid;
+  border-radius: 5px;
+  line-height: 100%;
+  text-decoration: none;
+  box-shadow: none;
+  position: relative;
+  padding: .25em .50em;
+  list-style: none;
+  outline: none;
+  cursor: auto;
+  font-size: 20px;
+  content: "";
+  display: table;
+  clear: both;
+}  
+
+/*a tag and span action when hovering */
+div.sh-show a:hover, div.sh-hide a:hover { 
+  background-color: #fefefe;
+  color: #fefefe;
+}  
+
+/* span that holds the actual words that appear */
+div.sh-show a span, div.sh-hide a span {
+  vertical-align: middle;
+  margin-left: .2em;
+  margin-right: .2em;
+  margin: 0;
+  line-height: 100%;
+  cursor: auto;
+  font-size: 16px;
+}
+
+/*a tag and span action when hovering */
+div.sh-hide a span:before { 
+  /*pulled from arrows, hanging on as placeholder*/
+  vertical-align: middle;
+  margin-right: .4em;
+  display: inline-block;
+  font: normal normal normal 20px/1 FontAwesome;
+  text-rendering: auto;
+  content: "\f103";
+}  
+
+div.sh-show a span:before { 
+  /*pulled from arrows, hanging on as placeholder*/
+  vertical-align: middle;
+  margin-right: .4em;
+  display: inline-block;
+  font: normal normal normal 20px/1 FontAwesome;
+  text-rendering: auto;
+  content: "\f102";
+}
+
+
 @media screen and (max-width: 976px) { /* Themify Customize Styling */
 #site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {	
 	color: #ffffff; 
