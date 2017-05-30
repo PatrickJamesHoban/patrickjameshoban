@@ -118,13 +118,14 @@ background: linear-gradient(180deg,rgba(5, 5, 5, 0.27) 0%, rgba(255, 255, 255, 0
 /* .themify_builder_1294_row.module_row_4 Style */
 .themify_builder_1294_row.module_row_4.module_row {
 	background-color: #f6f6f6;
+	text-align: center;
 	padding-top : 1%;
 	padding-bottom : 2%;
 	margin-top : 0px;
 	margin-bottom : 0px
 }
 
-.themify_builder .text-1294-4-0-1.module-text { text-align: left; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .text-1294-4-0-1.module-text { text-align: center; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
 .themify_builder .text-1294-4-0-2.module-text { text-align: center; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
 /* .sub_column_post_1294.sub_column_4-0-3-0 Style */
 .sub_column_post_1294.sub_column_4-0-3-0.sub_column {
@@ -221,8 +222,12 @@ background: linear-gradient(180deg,rgba(5, 5, 5, 0.27) 0%, rgba(255, 255, 255, 0
 .themify_builder .feature-1294-5-0-5.module-feature .module-feature-title:hover { color: #3b3b3b;  } 
 .themify_builder .feature-1294-5-0-5.module-feature .module-feature-title a:hover { color: #3b3b3b;  } 
 .themify_builder .feature-1294-5-0-6.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .feature-1294-5-0-6.module-feature .module-feature-title { font-family: Open Sans; color: #4d4d4d; font-size: 32px;  } 
 .themify_builder .feature-1294-5-0-6.module-feature a { color: #4d4d4d; text-decoration: none;  } 
 .themify_builder .feature-1294-5-0-6.module-feature a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-6.module-feature .module-feature-title a { font-family: Open Sans; color: #4d4d4d;  } 
+.themify_builder .feature-1294-5-0-6.module-feature .module-feature-title:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-5-0-6.module-feature .module-feature-title a:hover { color: #3b3b3b;  } 
 .themify_builder .feature-1294-5-0-7.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
 .themify_builder .feature-1294-5-0-7.module-feature .module-feature-title { font-family: Open Sans; color: #4d4d4d; font-size: 32px;  } 
 .themify_builder .feature-1294-5-0-7.module-feature a { color: #4d4d4d; text-decoration: none;  } 
