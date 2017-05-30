@@ -107,7 +107,7 @@ background: linear-gradient(180deg,rgba(5, 5, 5, 0.27) 0%, rgba(255, 255, 255, 0
 	padding-bottom : 4%
 }
 
-.module_row_3 .module_column_0.tb_1294_column{width:23.2956%;}.module_row_3 .module_column_1.tb_1294_column{width:73.5046%;}.themify_builder .text-1294-3-1-1.module-text { margin-right: 8%; margin-left: 10%;  } 
+.module_row_3 .module_column_0.tb_1294_column{width:23.2664%;}.module_row_3 .module_column_1.tb_1294_column{width:73.5345%;}.themify_builder .text-1294-3-1-1.module-text { margin-right: 8%; margin-left: 10%;  } 
 .themify_builder .text-1294-3-1-2.module-text { font-family: Open Sans; font-size: 16px; margin-right: 8%; margin-left: 10%;  } 
 .themify_builder .text-1294-3-1-2.module-text h1 { font-family: Open Sans;  } 
 .themify_builder .text-1294-3-1-2.module-text h2 { font-family: Open Sans;  } 
@@ -244,9 +244,18 @@ background: linear-gradient(180deg,rgba(5, 5, 5, 0.27) 0%, rgba(255, 255, 255, 0
 .themify_builder .feature-1294-5-0-8.module-feature .module-feature-title a:hover { color: #3b3b3b;  } 
 /* .themify_builder_1294_row.module_row_6 Style */
 .themify_builder_1294_row.module_row_6.module_row {
-	background-color: #f6f6f6
+	background-color: #f6f6f6;
+	padding-top : 3%;
+	padding-bottom : 2%
 }
 
+.themify_builder .text-1294-6-0-1.module-text { text-align: center;  } 
+.themify_builder .text-1294-sub_row_6-0-2-2-3.module-text a { color: #4d4d4d; text-decoration: none;  } 
+.themify_builder .text-1294-sub_row_6-0-2-2-3.module-text a:hover { color: #3b3b3b;  } 
+.themify_builder .text-1294-sub_row_6-0-3-2-0.module-text a { color: #4d4d4d; text-decoration: none;  } 
+.themify_builder .text-1294-sub_row_6-0-3-2-0.module-text a:hover { color: #3b3b3b33;  } 
+.themify_builder .text-1294-sub_row_6-0-3-2-3.module-text a { color: #4d4d4d; text-decoration: none;  } 
+.themify_builder .text-1294-sub_row_6-0-3-2-3.module-text a:hover { color: #3b3b3b;  } 
 /* .themify_builder_1294_row.module_row_7 Style */
 .themify_builder_1294_row.module_row_7.module_row {
 	text-align: center;
