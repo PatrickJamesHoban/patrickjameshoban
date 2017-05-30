@@ -221,12 +221,8 @@ background: linear-gradient(180deg,rgba(5, 5, 5, 0.27) 0%, rgba(255, 255, 255, 0
 .themify_builder .feature-1294-5-0-5.module-feature .module-feature-title:hover { color: #3b3b3b;  } 
 .themify_builder .feature-1294-5-0-5.module-feature .module-feature-title a:hover { color: #3b3b3b;  } 
 .themify_builder .feature-1294-5-0-6.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
-.themify_builder .feature-1294-5-0-6.module-feature .module-feature-title { font-family: Open Sans; color: #4d4d4d; font-size: 32px;  } 
 .themify_builder .feature-1294-5-0-6.module-feature a { color: #4d4d4d; text-decoration: none;  } 
 .themify_builder .feature-1294-5-0-6.module-feature a:hover { color: #3b3b3b;  } 
-.themify_builder .feature-1294-5-0-6.module-feature .module-feature-title a { font-family: Open Sans; color: #4d4d4d;  } 
-.themify_builder .feature-1294-5-0-6.module-feature .module-feature-title:hover { color: #3b3b3b;  } 
-.themify_builder .feature-1294-5-0-6.module-feature .module-feature-title a:hover { color: #3b3b3b;  } 
 .themify_builder .feature-1294-5-0-7.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
 .themify_builder .feature-1294-5-0-7.module-feature .module-feature-title { font-family: Open Sans; color: #4d4d4d; font-size: 32px;  } 
 .themify_builder .feature-1294-5-0-7.module-feature a { color: #4d4d4d; text-decoration: none;  } 
@@ -246,9 +242,31 @@ background: linear-gradient(180deg,rgba(5, 5, 5, 0.27) 0%, rgba(255, 255, 255, 0
 	background-color: #f6f6f6
 }
 
+/* .themify_builder_1294_row.module_row_7 Style */
+.themify_builder_1294_row.module_row_7.module_row {
+	text-align: center;
+	padding-top : 5%;
+	padding-bottom : 2%
+}
+
+.themify_builder .text-1294-7-0-1.module-text { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .feature-1294-sub_row_7-0-2-0-0.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .feature-1294-sub_row_7-0-2-0-0.module-feature a { color: #4d4d4d; text-decoration: none;  } 
+.themify_builder .feature-1294-sub_row_7-0-2-0-0.module-feature a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-sub_row_7-0-2-1-0.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .feature-1294-sub_row_7-0-2-1-0.module-feature a { color: #4d4d4d; text-decoration: none;  } 
+.themify_builder .feature-1294-sub_row_7-0-2-1-0.module-feature a:hover { color: #3b3b3b;  } 
+.themify_builder .feature-1294-sub_row_7-0-2-2-0.module-feature { padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px;  } 
+.themify_builder .feature-1294-sub_row_7-0-2-2-0.module-feature a { color: #4d4d4d; text-decoration: none;  } 
+.themify_builder .feature-1294-sub_row_7-0-2-2-0.module-feature a:hover { color: #3b3b3b;  } 
 /* .themify_builder_1294_row.module_row_8 Style */
 .themify_builder_1294_row.module_row_8.module_row {
-	background-color: #f6f6f6
+	background-color: #f6f6f6;
+	text-align: center;
+	padding-top : 5%;
+	padding-bottom : 2%;
+	margin-top : 0px;
+	margin-bottom : 0px
 }
 
 /* .themify_builder_1294_row.module_row_9 Style */
