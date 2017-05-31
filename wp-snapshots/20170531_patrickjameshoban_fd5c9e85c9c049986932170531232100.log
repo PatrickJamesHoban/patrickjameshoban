@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-05-31 23:27:33
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.8
+WORDPRESS:	4.7.5
+PHP INFO:	7.1.1 | SAPI: apache2handler
+SERVER:		Apache/2.2.31 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.1.1 mod_ssl/2.2.31 OpenSSL/1.0.2j DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.24.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 12MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20170531_patrickjameshoban_fd5c9e85c9c049986932170531232100_database.sql 
+SQL FILE SIZE: 12.17MB (12765740) 
+SQL FILE TIME: 2017-05-31 23:27:34 
+SQL RUNTIME: 0.54 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Users/PatrickJHoban/Sites/wordpress/patrickjameshoban 
+ARCHIVE FILE: 20170531_patrickjameshoban_fd5c9e85c9c049986932170531232100_archive.zip 
+FILTERS: *ON* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	69.23MB 
+STATS:	Dirs 539 | Files 5,464 
+SQL ADDED: 20170531_patrickjameshoban_fd5c9e85c9c049986932170531232100_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6003
+    [filename] => /Users/PatrickJHoban/Sites/wordpress/patrickjameshoban/wp-snapshots/tmp/20170531_patrickjameshoban_fd5c9e85c9c049986932170531232100_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 46.9MB 
+ARCHIVE RUNTIME: 11.31 sec. 
+MEMORY STACK: 16MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Users/PatrickJHoban/Sites/wordpress/patrickjameshoban/wp-snapshots/tmp/20170531_patrickjameshoban_fd5c9e85c9c049986932170531232100_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 12.17MB 
+Installer File: 428.49KB 
+Archive File: 46.9MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 13.17 sec.
+PEAK PHP MEMORY USED: 28.71MB
+DONE PROCESSING => 20170531_patrickjameshoban 2017-05-31 23:27:46
+ 
